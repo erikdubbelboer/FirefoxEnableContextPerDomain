@@ -1,0 +1,1 @@
+pref('extensions.enablecontextperdomain.domains', ',docs.google.com,');

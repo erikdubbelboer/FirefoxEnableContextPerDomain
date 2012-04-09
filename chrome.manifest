@@ -1,0 +1,5 @@
+content   enablecontextperdomain                content/
+skin      enablecontextperdomain  classic/1.0   skin/
+locale    enablecontextperdomain  en-US         locale/en-US/
+
+overlay chrome://browser/content/browser.xul  chrome://enablecontextperdomain/content/browserOverlay.xul
